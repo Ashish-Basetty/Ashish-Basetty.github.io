@@ -4,8 +4,8 @@ navtitle: Ashish Basetty
 email: ashish.basetty2@gmail.com
 url: https://github.com/ashish-basetty
 description: "Personal portfolio site for Ashish Basetty"
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+keywords: ""
+description: "Computer Engineering @ UCLA - Class of 2025"
 meta_author: Basetty Ashish
 
 # Google webmaster tools
@@ -33,23 +33,20 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Ashish Basetty
+
+  #location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/basettyyyyy/
+  - title: linkedin
+    url: https://www.linkedin.com/in/ashish-basetty/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Ashish-Basetty
 
 # Postal address (add as many lines as necessary)
 address:

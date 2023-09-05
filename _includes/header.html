@@ -9,7 +9,15 @@
         <div class="intro-text">
           <span class="name">{{ site.title }}</span>
           <hr class="star-light" />
-          <span class="skills">{{ site.skills }}</span>
+          <span class="skills">{{ site.description }}</span>
+          <ul class="list-inline">
+            {% for network in site.social %}
+            <li>
+              <a href="{{ network.url }}" class="btn-social btn-outline"><i
+                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+            </li>
+            {% endfor %}
+          </ul>
         </div>
       </div>
     </div>
