@@ -392,6 +392,27 @@ footer .footer-below {
     outline: 0;
 }
 
+.center-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.circle-img {
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    border: 4px solid #fff;
+}
+
+.circle-img img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+}
+
+
 .scroll-top {
     z-index: 1049;
     position: fixed;

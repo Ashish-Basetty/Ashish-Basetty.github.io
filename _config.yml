@@ -1,11 +1,12 @@
 # Site settings
-title: Freelancer
+title: Hi, I'm Ashish
+navtitle: Ashish Basetty
 email: ashish.basetty2@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://github.com/ashish-basetty
+description: "Personal portfolio site for Ashish Basetty"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Basetty Ashish
 
 # Google webmaster tools
 google_verify:
@@ -52,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1258 Austin Street
+  - line: Fremont, CA 94539
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
