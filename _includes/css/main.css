@@ -303,6 +303,12 @@ section.success {
     
 }
 
+.card-row {
+    justify-content: center;
+    min-width: min-content;
+    display: flex
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -405,6 +411,7 @@ footer .footer-below {
 
 }
 
+
 .circle-img {
     width: 350px;
     height: 350px;
@@ -422,19 +429,29 @@ footer .footer-below {
     margin-top: 20px;
 }
 
-.horizontal-scrollable {
-    overflow-x: auto;
-    white-space: nowrap; 
-}
   
-.horizontal-scrollable .card {
-    display: inline-block; 
-    margin-right: 15px; 
+.spaced-card {
+    display: flex; 
     vertical-align: top; 
+    margin: 15px;
+    border-radius: 25px;
+    min-width: 200px;
+}
+
+.card-body {
+    width: 100%;
 }
 
 .icon-button {
     margin: 20px;
+}
+
+.icon-list-button {
+    margin: 10px;
+}
+
+.expanded {
+    width: 100%;
 }
 
 
