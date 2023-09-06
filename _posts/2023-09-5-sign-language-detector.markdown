@@ -1,10 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023-08-29
 img: cabin.png
 alt: image-alt
-project-date: April 2014
 categories: ['Data Science', 'Computer Vision', 'Machine Learning']
 github: 'https://github.com/Ashish-Basetty/sign-language-translator'
 youtube: 'https://youtu.be/4hZh6LRzbQw'

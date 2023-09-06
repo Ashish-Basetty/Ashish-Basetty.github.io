@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2022-12-20
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+categories: ['PyTorch', 'Machine Learning', 'Python', 'CNN', 'NumPy', 'Data Science']
+github: 'https://github.com/Ashish-Basetty/CNN-Learning'
+description: Using a tutorial, I was able to build a CNN based classifier for a set of common objects from scratch using PyTorch. I learned how to implement neural networks and the thought that goes into choosing network layers, and learned how to use the inbuilt batch training and hardware acceleration. 
 ---

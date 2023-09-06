@@ -297,6 +297,12 @@ section.success {
     background: #fff;
 }
 
+.custom-close {
+    opacity: 1; 
+    color: #a542d6
+    
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -412,6 +418,10 @@ footer .footer-below {
     margin-left: 50%;
 }
 
+.icon-button {
+    margin: 20px;
+}
+
 
 .scroll-top {
     z-index: 1049;
@@ -432,6 +442,10 @@ footer .footer-below {
 
 .scroll-top .btn:focus {
     outline: 0;
+}
+
+.technology-btn{
+    margin: 5px;
 }
 
 .portfolio-modal .modal-content {

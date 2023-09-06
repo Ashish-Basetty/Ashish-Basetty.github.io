@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 5
+date: 2023-06-09
+img: safe.png
+alt: image-alt
+categories: ['Firebase', 'React.js', 'HTML/CSS']
+github: 'https://github.com/AnooshkhaShetty/Lilypad'
+description: At my first hackathon, we built a basic website to host listings for free food around campus. While we were not able to completely refine the site, learned to apply vanilla React.js as well as connected a Firebase backend to create a dynamic site.
+---
