@@ -7,7 +7,7 @@
           <img src="img/profile.png" alt="profile-pic" />
         </div>
         <div class="intro-text">
-          <span class="name">{{ site.title }}</span>
+          <span class="name">{{ site.headertitle }}</span>
           <hr class="star-light" />
           <span class="skills">{{ site.description }}</span>
           <ul class="list-inline">
@@ -17,7 +17,16 @@
                   class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
             </li>
             {% endfor %}
+            <li>
+              <a href="mailto:ashish.basetty2@gmail.com" class="btn-social btn-outline"><i
+                  class="fa-solid fa-fw fa-envelope"></i></a>
+            </li>
           </ul>
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <a href="https://drive.google.com/file/d/1lVnOOqXI8Z6-DOmLQkRi2LxoD66kNWXo/view?usp=sharing" target="_blank" class="btn btn-lg btn-outline">
+              <i class="fa fa-download"></i> Download My Resume
+            </a>
+          </div>
         </div>
       </div>
     </div>

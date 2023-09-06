@@ -418,6 +418,21 @@ footer .footer-below {
     margin-left: 50%;
 }
 
+.custom-card-title {
+    margin-top: 20px;
+}
+
+.horizontal-scrollable {
+    overflow-x: auto;
+    white-space: nowrap; 
+}
+  
+.horizontal-scrollable .card {
+    display: inline-block; 
+    margin-right: 15px; 
+    vertical-align: top; 
+}
+
 .icon-button {
     margin: 20px;
 }

@@ -1,6 +1,6 @@
 # Site settings
-title: Hi, I'm Ashish
-navtitle: Ashish Basetty
+headertitle: Hi, I'm Ashish
+title: Ashish Basetty
 email: ashish.basetty2@gmail.com
 url: https://github.com/ashish-basetty
 description: "Personal portfolio site for Ashish Basetty"
@@ -59,6 +59,8 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
 
 #for posts
 defaults:
