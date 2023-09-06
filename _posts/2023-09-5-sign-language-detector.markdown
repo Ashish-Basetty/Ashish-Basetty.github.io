@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2023-08-29
-img: cabin.png
-alt: image-alt
+img: SignScreenshot.png
+alt: Sign Language Video Screenshot
 categories: ['Data Science', 'Computer Vision', 'Machine Learning']
 github: 'https://github.com/Ashish-Basetty/sign-language-translator'
 youtube: 'https://youtu.be/4hZh6LRzbQw'

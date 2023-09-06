@@ -2,8 +2,8 @@
 layout: default
 modal-id: 2
 date: 2023-06-19
-img: cake.png
-alt: image-alt
+img: BruinConnectScreenshot.png
+alt: BruinConnect Demo Screenshot
 categories: ['React.js', 'Google Maps API', 'MongoDB', 'NoSQL Database', 'Node.js', 'HTML/CSS', 'Figma', 'Material-UI', 'Express.js']
 github: 'https://github.com/AkashM153/CS35L'
 youtube: 'https://youtu.be/NCozV5VEP_8?si=VrajDKqqB8teeBLV'

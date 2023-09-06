@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 date: 2023-04-23
-img: game.png
-alt: image-alt
+img: PomododoScreenshot.png
+alt: Pomododo Demo Screenshot
 categories: ['React.js', 'Firebase', 'Google Auth', 'HTML/CSS']
 github: 'https://github.com/AnooshkhaShetty/Pomododo'
 youtube: 'https://youtu.be/CTDuFxCB_I0'
